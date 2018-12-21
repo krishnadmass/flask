@@ -1,2 +1,2 @@
 # flask
-My First Flask Rest Applications
+My First Flask Rest Application
